@@ -23,7 +23,6 @@ public class ChangeSprite : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D c)
     {
-		Debug.Log("OnTriggerEnter");
         changeSprite();
     }
 
