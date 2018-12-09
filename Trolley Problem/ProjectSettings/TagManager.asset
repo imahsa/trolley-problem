@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BloodStains
+    uniqueID: 912716905
+    locked: 0
